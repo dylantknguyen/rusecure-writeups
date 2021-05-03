@@ -10,4 +10,4 @@ Looking at the results, it looks like the names above are the names of World War
 
 No, calm down. It said one word. Looking at the [Wikipedia page for the battle](https://en.wikipedia.org/wiki/Battle_of_Savo_Island), it says that the battle was near the island of Guadalcanal. Guadalcanal is one word.
 
-The flag is `Guadalcanal`
+The flag is `Guadalcanal`.
