@@ -1,12 +1,12 @@
 # Hashing the Pandemic 04
 
-[Challenge](challenge.png)
+![Challenge](challenge.png)
 
 In this challenge you are provided with a names along with their respective hashes. When looking at this challenge initally, I thought about brute-forcing it. This is because hashes in the previous challenges were quite common words. Therefore, you could have just looked in a database of hashes to find the solution. The names listed in this challenge, however, are quite uncommon names, which means its unlikely that they are in a database of hashes.
 
 When brtue-forcing a hash, you first need to know what hash it is. I used this [online hash-identifier tool](https://hashes.com/en/tools/hash_identifier) to identify the hash `0b0d30a9174ef6b5e5c93955d616580dd09ed319ce67d11b2a4881de9304f15b0511429501080ae09bdf5a7413e67664`. Make sure to click the box saying "Include all possibilities".
 
-[Possible Hashes](hash-identifier.png)
+![Possible Hashes](hash-identifier.png)
 
 The website returns the algorithm "Keccak-384".
 

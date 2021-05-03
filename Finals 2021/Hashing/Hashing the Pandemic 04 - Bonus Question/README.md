@@ -1,6 +1,6 @@
 # Hashing the Pandemic 04 - Bonus Question
 
-[Challenge](challenge.png)
+![Challenge](challenge.png)
 
 This challenge was unlocked once the "Hashing the Pandemic 04" challenge was completed.
 
